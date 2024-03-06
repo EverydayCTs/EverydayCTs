@@ -58,3 +58,8 @@ textarea:focus-within{
 .contact_left button:hover{
     background-color: lime;    
 }
+@media screen and (max-width: 460px){
+    *{
+        width: 95%;
+    }
+}
